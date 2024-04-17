@@ -5,6 +5,6 @@ if the variable is greater than or equal to 10.
 
 num = 15
 if num < 10:
-    print("Your number is lower than 10!")
+    print("Your number is less than 10!")
 else:
     print("Your number is greater than or equal to 10!")
