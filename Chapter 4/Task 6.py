@@ -16,7 +16,7 @@ print(num_square(7))
 #Task 2
 def get_string(string):
     """
-    Prints a given string
+    Prints a given string.
     :param string: str
     """
     print(string)
