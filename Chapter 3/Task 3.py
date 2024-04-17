@@ -4,7 +4,7 @@ message if the variable is greater than 10 but less than or equal to 25, and ano
 if the variable is greater than 25.
 """
 
-num = 24
+num = int(input("Put here any number: "))
 if num <= 10:
     print("Your number is less than or equal to 10!")
 elif num <= 25:

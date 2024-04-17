@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453817b9-12c1-4b1c-aa7e-cd5c96f8e268" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Task 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Task 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Task 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Task 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Task 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Task 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Task 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Task 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Task 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 3/Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3/Task 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +48,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Task 1 (1).executor": "Run",
+    "Python.Task 1 (2).executor": "Run",
     "Python.Task 1.executor": "Debug",
+    "Python.Task 2 (1).executor": "Run",
     "Python.Task 2.executor": "Run",
+    "Python.Task 3 (1).executor": "Run",
     "Python.Task 3.executor": "Run",
     "Python.Task 4.executor": "Run",
     "Python.Task 5.executor": "Run",
@@ -58,11 +65,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adams\Documents\The-Self-taught-Programmer-Cory-Althoff\The-Self-taught-Programmer-Cory-Althoff" />
       <recent name="C:\Users\adams\Documents\The-Self-taught-Programmer-Cory-Althoff\The-Self-taught-Programmer-Cory-Althoff\Chapter 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task 6">
-    <configuration name="Task 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task 5">
+    <configuration name="Task 1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="The-Self-taught-Programmer-Cory-Althoff" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,11 +79,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/Task 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Task 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="The-Self-taught-Programmer-Cory-Althoff" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Task 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task 3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="The-Self-taught-Programmer-Cory-Althoff" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/Task 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Task 3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/Task 4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Task 4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,33 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/Task 5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="The-Self-taught-Programmer-Cory-Althoff" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3/Task 6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Task 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task 6" />
         <item itemvalue="Python.Task 5" />
         <item itemvalue="Python.Task 4" />
-        <item itemvalue="Python.Task 3" />
-        <item itemvalue="Python.Task 1 (1)" />
+        <item itemvalue="Python.Task 3 (1)" />
+        <item itemvalue="Python.Task 2 (1)" />
+        <item itemvalue="Python.Task 1 (2)" />
       </list>
     </recent_temporary>
   </component>
