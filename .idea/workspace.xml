@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453817b9-12c1-4b1c-aa7e-cd5c96f8e268" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 9/Task 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 9/Task 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 9/fav_band.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 9/st.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 10/Task 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +41,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Gra w wisielca.executor": "Run",
     "Python.Task 1 (1).executor": "Run",
     "Python.Task 1.executor": "Run",
     "Python.Task 2 (1).executor": "Run",
@@ -68,8 +66,8 @@
       <recent name="C:\Users\adams\Documents\The-Self-taught-Programmer-Cory-Althoff\The-Self-taught-Programmer-Cory-Althoff\Chapter 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task 2 (1)">
-    <configuration name="Task 1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task 1">
+    <configuration name="Gra w wisielca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="The-Self-taught-Programmer-Cory-Althoff" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,11 +76,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Cory Althoff - Programista Samouk/Gra w wisielca" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Cory Althoff - Programista Samouk/Gra w wisielca/Gra w wisielca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="The-Self-taught-Programmer-Cory-Althoff" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/Task 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10/Task 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,28 +125,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9/Task 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task 2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="The-Self-taught-Programmer-Cory-Althoff" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 8/Task 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 1" />
+        <item itemvalue="Python.Gra w wisielca" />
         <item itemvalue="Python.Task 2 (1)" />
         <item itemvalue="Python.Task 3" />
         <item itemvalue="Python.r_09_zad_3" />
-        <item itemvalue="Python.Task 2 (2)" />
-        <item itemvalue="Python.Task 1 (1)" />
       </list>
     </recent_temporary>
   </component>
