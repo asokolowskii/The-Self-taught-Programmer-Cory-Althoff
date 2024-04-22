@@ -1,4 +1,3 @@
-import random
 from random import randint
 
 word_list = ["cat", "dog" , "horse", "chicken", "duck", "zebra", "elephant"]
