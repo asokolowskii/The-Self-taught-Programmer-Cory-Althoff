@@ -40,6 +40,6 @@ def hangman(word):
             break
     if not win:
         print("\n".join(stages[0:wrong]))
-        print("You lost! The word was: {}.".format(word))
+        print("You've lost! The word was: {}.".format(word))
 
 hangman(word)
